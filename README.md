@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BaldwinCepeda
+- 👋 Hi, my name is Baldwin, shoot me a message I love to chat and connect with different 
+- people :D!
 - 👀 I’m interested in blockchain and the crypto space 
 - 🌱 I’m currently learning solidity :D
-- 💞️ I’m looking to collaborate on any interesting open source project 
 - 📫 you can reach me at baldwincepeda@gmail.com
 
 
-Hello world!
+Hello web3!
