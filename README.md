@@ -2,7 +2,7 @@
 - people :D!
 - 👀 I’m interested in blockchain and the crypto space 
 - 🌱 I’m currently learning solidity :D
-- 📫 you can reach me at baldwincepeda@gmail.com
+- 📫 you can reach me at baldwincepeda@icloud.com
 
 
 Hello web3!
