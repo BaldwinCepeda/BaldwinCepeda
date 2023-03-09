@@ -1,2 +1,4 @@
 Hello web3!
-currently: DeFi @ Polygon
+currently: SWE @ DeFi Startup 
+
+Bio: my apologies for the messy github lol,no alpha in here... 
