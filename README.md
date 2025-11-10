@@ -2,8 +2,8 @@
 <p align="left">
   <!-- Or “about.me” look -->
 <a href="https://baldwincepeda.me">
-  <img alt="Blog"
-       src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+  <img
+       src="https://img.shields.io/badge/Blog-111827?style=for-the-badge&logo=aboutdotme&logoColor=white" />
 </a>
   <a href="https://www.youtube.com/@0xBlonded">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
