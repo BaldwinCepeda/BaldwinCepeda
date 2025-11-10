@@ -1,31 +1,16 @@
 # Hi, I'm Baldwin Cepeda 👋  
 <p align="left">
-  <!-- Website / Portfolio -->
-  <a href="https://baldwincepeda.me" target="_blank" rel="noopener noreferrer" title="Visit my website">
-    <img
-      alt="Website"
-      src="https://img.shields.io/badge/🌐%20Website-Visit-eceff1?style=for-the-badge&labelColor=1f2937" />
+  <a href="https://baldwincepeda.me">
+    <img src="https://img.shields.io/badge/Website-F4F1EA?style=for-the-badge&labelColor=1f2937" />
   </a>
-
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@0xBlonded" target="_blank" rel="noopener noreferrer" title="Subscribe on YouTube">
-    <img
-      alt="YouTube"
-      src="https://img.shields.io/badge/YouTube-Subscribe-eceff1?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1f2937" />
+  <a href="https://www.youtube.com/@0xBlonded">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/BaldwinCepeda/" target="_blank" rel="noopener noreferrer" title="Connect on LinkedIn">
-    <img
-      alt="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-Connect-eceff1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2937" />
+  <a href="https://www.linkedin.com/in/BaldwinCepeda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/0xBLOND" target="_blank" rel="noopener noreferrer" title="Follow on X">
-    <img
-      alt="X (Twitter)"
-      src="https://img.shields.io/badge/X-Follow-eceff1?style=for-the-badge&logo=x&logoColor=white&labelColor=1f2937" />
+  <a href="https://x.com/0xBLOND">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
