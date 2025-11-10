@@ -1,5 +1,21 @@
 # Hi, I'm Baldwin Cepeda 👋  
-**Software Engineer & Web3 Security Engineer **
+<p align="left">
+  <a href="https://baldwincepeda.me">
+    <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.youtube.com/@0xBlonded">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://x.com/0xBLOND">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="https://www.linkedin.com/in/BaldwinCepeda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+
+** Software Engineer & Web3 Security Engineer **
 
 I build secure distributed systems, Ethereum infrastructure, MEV research pipelines, and large-scale automation across Microsoft and Web3 ecosystems.  
 
