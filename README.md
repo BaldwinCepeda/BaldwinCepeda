@@ -2,7 +2,7 @@
 <p align="left">
   <!-- Or “about.me” look -->
 <a href="https://baldwincepeda.me">
-  <img alt="Website"
+  <img alt="Blog"
        src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=aboutdotme&logoColor=white" />
 </a>
   <a href="https://www.youtube.com/@0xBlonded">
