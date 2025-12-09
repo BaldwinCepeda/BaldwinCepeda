@@ -17,37 +17,40 @@
 **Software Engineer • Web3 Security Engineer**
 
 I build secure distributed systems, Ethereum infrastructure, and MEV research tooling.  
-My experience spans DeFi, blockchain security, MEV engineering, and enterprise-scale automation across Polygon, CUNY Research Foundation, and Avanade (Accenture + Microsoft).
+My work spans blockchain security, DeFi, MEV engineering, and large-scale automation across Polygon, the CUNY Research Foundation, and Avanade (Accenture + Microsoft).
 
-**Focus Areas**
-- Ethereum node operations (execution + consensus, archival, telemetry)
-- MEV research: mempool analytics, Flashbots bundles, fork simulations
-- Smart-contract security: fuzzing, invariants, reentrancy, upgrade patterns
-- Security automation: PowerShell/Python pipelines, AD/Entra, CI/CD
-- Large-scale data/infra engineering and reliability work
+---
+
+## Focus Areas
+- Ethereum client operations (execution + consensus, archival, observability)
+- MEV research: mempool analytics, fork simulations, latency profiling, Flashbots bundles
+- Smart contract security: fuzzing, invariants, reentrancy analysis, upgradability patterns
+- Enterprise security automation: PowerShell/Python pipelines, AD/Entra transformations, CI/CD
+- Data & infra engineering: reliability, telemetry, distributed systems, cloud operations
 
 ---
 
 ## Web3 Security Engineering
--  led workshops on audits and exploit patterns  
-- Built MEV research bots for bundle simulation, latency benchmarking, and strategy analysis  
-- Operated Ethereum archival nodes with full client lifecycle management (upgrades, pruning, monitoring)  
-- Contributor to governance discussions (e.g., Origin Dollar)
+- Lead workshops on smart-contract security, audit methodology, and exploit patterns  
+- Build MEV research bots for bundle simulation, strategy evaluation, and network-latency benchmarking  
+- Operate and maintain Ethereum archival nodes with full lifecycle management (upgrades, pruning, monitoring)  
+- Contribute to DAO/governance discussions (e.g., Origin Dollar)  
 
 ---
 
 ## Security Automation & Systems Engineering
-- Developed Python and JavaScript automation used for identity operations, security workflows, and telemetry.  
-- Automated multi-tenant AD migrations and remediation workflows (**65,000+ directory objects processed**).  
-- Built PowerShell, Python, and JS pipelines for incident response, compliance, and CI/CD integration.  
-- Led reliability engineering across Windows/Linux and cloud environments to improve uptime and auditability.  
-- Created data automation for staffing and capacity planning, reducing operational bench by **~25%**.
+- Develop Python/JS automation for identity operations, compliance, and telemetry ingestion  
+- Automate AD/Entra ID migrations and remediation workflows (**65,000+ directory objects processed**)  
+- Build PowerShell and CI/CD pipelines to strengthen incident response and auditability  
+- Drive reliability engineering efforts across Windows/Linux and cloud environments  
+- Build data automation for staffing and capacity forecasting, reducing operational bench by **~25%**
+
 ---
 
 ## Toolbox
 **Languages:** Python, C++17, TypeScript/JavaScript, Solidity, SQL  
-**Blockchain Tooling:** Foundry (Forge/Anvil/Cast), Slither, Echidna, Hardhat, Tenderly, Flashbots tooling
-**Infra:** Linux (Arch), Docker, system monitoring, Ethereum client operations, incident response 
+**Blockchain Tooling:** Foundry (Forge/Anvil/Cast), Hardhat, Slither, Echidna, Tenderly, Flashbots stack  
+**Infra:** Linux (Arch), Ethereum node ops, Docker, system monitoring, incident response  
 **DevOps:** GitHub Actions, Azure DevOps, CI/CD, PowerShell, Bash  
 **Cloud:** Azure, GitHub Cloud, AWS  
 **Certifications:** AZ-204, AZ-900, GitHub Foundations  
@@ -55,12 +58,12 @@ My experience spans DeFi, blockchain security, MEV engineering, and enterprise-s
 ---
 
 ## Writing & Education
-Web3 security, Solidity patterns, MEV analysis, Ethereum node operations  
+I publish technical content on Web3 security, Solidity engineering, MEV research, and Ethereum node operations.  
 **https://baldwincepeda.me**
 
 ---
 
 ## Contact
-Email: **baldwincepeda@icloud.com**  
-Website: **https://baldwincepeda.me**  
-Blog: **https://medium.com/@baldwincepeda**
+**Email:** baldwincepeda@icloud.com  
+**Website:** https://baldwincepeda.me  
+**Blog:** https://medium.com/@baldwincepeda
