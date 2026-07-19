@@ -14,7 +14,7 @@
   </a>
 </p>
 
-**Software Engineer • Web3 Security Engineer**
+**Software Engineer • Security Engineer**
 
 I build secure distributed systems, Ethereum infrastructure, and MEV research tooling.  
 My work spans blockchain security, DeFi, MEV engineering, and large-scale automation across Polygon, the CUNY Research Foundation, and Avanade (Accenture + Microsoft).
